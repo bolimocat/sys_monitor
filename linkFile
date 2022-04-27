@@ -1,1 +1,2 @@
-172.16.70.179,root,mingli198396,22,3
+host,user,pass,port,interval
+192.168.2.162,root,mingli198396,22,5
